@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+    } 
+    .heading{
+        font-size: 23px; 
+        width: 100%; 
+        margin: 0px; 
+       } 
+       
+       #start, #status_model,#status_object
+       {
+            font-size: 18px;
+           } 
+           
+           .copy_right_footer{
+           position:fixed;
+           color:aliceblue;
+           bottom: 0; 
+           width: 100%;
+           background-color:plum;
+           line-height: 4; 
+           text-align: center;
+                    }
+                    
+                    canvas{
+                       border:2px;
+                       color: cornflowerblue;
+                       border-radius: 10px;
+                       margin-top: 130px;
+                       box-shadow: 5px,5px,5px  paleturquoise; 
+                    }
+
+                       h3id{
+                           color:white;
+                       }
+
+                       .span1
+                       {
+                        position:fixed;
+                        bottom: 0; 
+                        width: 100%;
+                        line-height: 4; 
+                        text-align: center;  
+                       }
